@@ -6,11 +6,11 @@ Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia 
 
 Mis principales lenguajes de programacion son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,cpp,mysql&theme=dark)](https://github.com/IzzyGrant)
 
 Mis principales herramientas son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode,arduino&theme=dark)](https://github.com/IzzyGrant)
 
 Es un gusto conocerte 😄
 
