@@ -1,6 +1,6 @@
 ### Hola 👋 mi nombre es Isidoro pero puedes llamarme Izzy 😁
 
-BIenvenido a mi cuenta de GitHub 🙌
+BIenvenido(a) a mi cuenta de GitHub 🙌
 
 Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia en desarrollo Web 💻.
 
