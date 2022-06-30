@@ -6,7 +6,7 @@ Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia 
 
 ### Mis principales herramientas y lenguajes de programacion son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql,git,linux,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql,git,github,linux,vscode&theme=dark)](https://skills.thijs.gg)
 
 ### Es un gusto conocerte 😄
 
