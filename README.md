@@ -18,7 +18,7 @@ Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia 
 
 ### Es un gusto conocerte 😄
 
-### Aqui abajo entan mis ultimos trabajos 🤗
+### Aqui abajo estan mis ultimos trabajos 🤗
 <!--
 **IzzyGrant/IzzyGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
