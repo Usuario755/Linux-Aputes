@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hola 👋 mi nombre es Isidoro pero puedes llamarme Izzy 😁
 
+BIenvenido a mi cuenta de GitHub 🙌
+
+Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia en desarrollo Web 💻.
+
+### Mis principales lenguajes de programacion son:
+
+📕- HTML
+
+📗- CSS3
+
+📒- JavaScript
+
+☕- Java
+
+📘- MySQL
+
+### Es un gusto conocerte 😄
 <!--
 **IzzyGrant/IzzyGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
