@@ -4,13 +4,19 @@ BIenvenido(a) a mi cuenta de GitHub 🙌
 
 Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia en desarrollo Web 💻.
 
-### Mis principales herramientas y lenguajes de programacion son:
+Mis principales lenguajes de programacion son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql,git,github,linux,vscode&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql&theme=dark)](https://github.com/IzzyGrant)
 
-### Es un gusto conocerte 😄
+Mis principales herramientas son:
 
-### Aqui abajo estan mis ultimos trabajos 🤗
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode&theme=dark)](https://github.com/IzzyGrant)
+
+Es un gusto conocerte 😄
+
+Aqui abajo estan mis ultimos trabajos 🤗
+
+
 <!--
 **IzzyGrant/IzzyGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
