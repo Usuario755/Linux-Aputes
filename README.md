@@ -14,7 +14,7 @@ Mis principales herramientas son:
 
 Es un gusto conocerte 😄
 
-Aqui abajo estan mis ultimos trabajos 🤗
+Aqui abajo ⬇ estan mis ultimos trabajos 🤗
 
 
 <!--
