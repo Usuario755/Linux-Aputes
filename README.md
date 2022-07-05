@@ -4,11 +4,11 @@ BIenvenido(a) a mi cuenta de GitHub 🙌
 
 Actualmente estoy en el estudio de **Java**☕ y tambien cuento con experiencia en desarrollo Web 💻.
 
-Mis principales lenguajes de programacion son:
+Lenguajes de programacion los cuales estoy aplicando ✔ son:
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,cpp,mysql&theme=dark)](https://github.com/IzzyGrant)
 
-Mis principales herramientas son:
+Mis principales herramientas 🛠 son:
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode,arduino,androidstudio&theme=dark)](https://github.com/IzzyGrant)
 
