@@ -10,7 +10,7 @@ Mis principales lenguajes de programacion son:
 
 Mis principales herramientas son:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode,arduino&theme=dark)](https://github.com/IzzyGrant)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,vscode,arduino,androidstudio&theme=dark)](https://github.com/IzzyGrant)
 
 Es un gusto conocerte 😄
 
