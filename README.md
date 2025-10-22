@@ -7,3 +7,4 @@ BIenvenido(a) a mi cuenta de GitHub 🙌
 Aqui abajo ⬇ estan mis ultimos apuntes de Linux 🤗
 
 
+##Me base en este repositorio: https://github.com/IzzyGrant/IzzyGrant
